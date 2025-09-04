@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# class Checkbook:
+class Checkbook:
     """
     A simple checkbook class to manage deposits, withdrawals, and balance tracking.
     """
